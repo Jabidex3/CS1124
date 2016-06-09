@@ -1,0 +1,20 @@
+There are: 5 warriors
+Warrior: Jim, strength: 42
+Warrior: Lancelot, strength: 15
+Warrior: Arthur, strength: 15
+Warrior: Torvalds, strength: 20
+Warrior: Gates, strength: 8
+Arthur battles Lancelot
+Mutual Annihalation: Arthur and Lancelot die at each other's hands
+Jim battles Lancelot
+He's dead Jim
+Torvalds battles Gates
+Torvalds defeats Gates
+Gates battles Lancelot
+Oh, NO! They're both dead! Yuck!
+There are: 5 warriors
+Warrior: Jim, strength: 42
+Warrior: Lancelot, strength: 0
+Warrior: Arthur, strength: 0
+Warrior: Torvalds, strength: 12
+Warrior: Gates, strength: 0
